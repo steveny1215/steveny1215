@@ -1,7 +1,7 @@
 Hi 👋 My name is Steven Yeung
 =============================
 
-Programmer Analyst and Aspiring Software Engineer
+Programmer Analyst and Software Engineer
 -------------------------------------------------
 
 👋🏽 + 🎓 I am a senior studying Computer Science at Binghamton University 
